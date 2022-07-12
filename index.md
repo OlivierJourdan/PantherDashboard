@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Panther Dashboard for DQMH
 
-You can use the [editor on GitHub](https://github.com/PantherLAB/PantherDashboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_This is a DQMH Module created as a wrapper for the new Scripting API included in the DQMH 6.1 Release._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Panther Dashboard for DQMH has the following features:**
+<ul>
+<li>Explore Project in the DQMH context</li>
+<li>Visualize your modules Status (running, Idle)</li>
+<li>Edit/Update your modules Descriptions</li>
+<li>Edit/Update your event Documentation</li>
+<li>Search for Event Callers</li>
+<li>If the Event is a Broadcast, search for Broadcast listeners / subscriptors</li>
+<li>Open API Tester from the selected module</li>
+<li>Execute the default events included in all the DQMH Modules like [Show Panel, Hide Panel, Show Block Diagram, Stop Module]</li>
+<li>Use the DQMH Scripting Tools to create Events and Modules</li>
+</ul>
 
-### Markdown
+If you like this tool you can buy me a ☕ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/enoearias)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PantherLAB/PantherDashboard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To know how to use it and get a more detailed information please visit:
+ 
+ 
+ [PantherLAB Blog](https://pantherlab.com.mx/2022/06/06/panther-dashboard-for-dqmh/)
+ 
+ 
+ [VIP File](https://github.com/PantherLAB/PantherDashboard/blob/main/VIP/pantherlab_lib_panther_dashboard-1.7.0.9.vip)
+ 
+ **Watch the youtube video here:**
+ 
+ [![Watch the youtube video](https://pantherlab.com.mx/wp-content/uploads/2022/07/youtube-logo-icone.png)](https://youtu.be/j4ikJDI-T5Q)
